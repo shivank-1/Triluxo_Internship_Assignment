@@ -1,0 +1,16 @@
+faiss-cpu
+numpy
+langchain
+tiktoken
+dotenv
+tqdm
+os
+faiss-cpu
+sentence_transformers
+numpy
+streamlit
+langchain_groq
+langchain_text_splitters
+langchain_community
+streamlit_chat
+flask
