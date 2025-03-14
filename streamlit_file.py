@@ -1,4 +1,4 @@
-#importing libs
+#importing libraries
 import os
 import time
 import faiss
