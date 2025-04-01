@@ -1,10 +1,10 @@
-#importing libraries
+#importing library
 import os
 import time
 import faiss
 import numpy as np
 from utils import *
-from dotenv import load_dotenv
+#from dotenv import load_dotenv
 from langchain.text_splitter import RecursiveCharacterTextSplitter
 import os
 import streamlit as st
